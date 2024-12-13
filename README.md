@@ -1,4 +1,5 @@
 # OGD-monitoring-wild-birds-avian-influenza
 
-
-https://confluence.blv.admin.ch/x/bY_MC
+![Plot](out/plot.png)
+<br><br>
+Interne Dokumentation: https://confluence.blv.admin.ch/x/bY_MC
